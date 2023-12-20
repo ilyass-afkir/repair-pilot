@@ -1,8 +1,5 @@
-# About
-This program is an AI-based assistance system for prodt repair and redesign. It is only to showcase my work since I developed this for an industrial partner chigly coutimzed to theri own data.
-We are alos cuurently writen a Paper for this. Hence I cant Show you the entire prgram here due to privacy and safety.
-This only to showcase some of my work as astudent researhc asstitant. If oyu still want to try it folw th e guide below. 
-
+# Motivation
+This program "AI-based assistance system for product repair and redesign" was developed during my time as a reseach assistant. The goal is to 
 # Usage
 If you want to try it out, you frst need to generate the coorect data youself, since I cat provide you with high cnfidnetal company data.
 In general you eed to csv files: kopf.csv and pos.csv
