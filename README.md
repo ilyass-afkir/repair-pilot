@@ -4,4 +4,4 @@
 # 🔌Requirements
 - Python 3.9+
 # 🚀 How to use Repair Pilot
-1. '''pip install '''
+1. ```pip install ```
