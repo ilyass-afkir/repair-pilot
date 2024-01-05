@@ -1,5 +1,5 @@
 # 🛠️ REPAIR PILOT
-Repair Pilot is an assistance system that can analyze repair data to enhance product developemnt decisions.  
+## Repair Pilot is an assistance system that analyzes repair data to make your product better.  
 
 # Usage
 If you want to try it out, you frst need to generate the coorect data youself, since I cat provide you with high cnfidnetal company data.
