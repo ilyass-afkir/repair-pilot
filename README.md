@@ -6,8 +6,13 @@
 # 🚀 How to use Repair Pilot
 1. ```pip install ```
 
-# How can Repair Pilot be further imporved?
-Repair Pilot can currently only analyze CSV Files containing a specific structure. Thats not scalabel. Here is what I can imagine of what can do as the next steps:
-1. Automatically extract data from a datbase such as SQL etc. []
-2. Repair Oilot should be able to analyze any data of any format or structure (LLMs could be very helpful here).[]
-3. Integrate LLMs to imporve UI and get more out of your data. []
+# 🎯 How can we improve Repair Pilot?
+Repair Pilot can currently only analyze CSV Files containing a specific structure. Thats not scalabel and efficient. 
+Here is what I imagine on what can do in the next steps:
+
+- [ ] Automatically extract data from a database (SQL etc.) 
+- [ ] Analysis of any data of any format or structure (LLMs could be very helpful here to understand the data structure)
+- [ ] Integrate LLMs to improve UX and incorparte domain knowledge. For example:
+      - A first text prompt like "What are the most critical parts of my welding machine?" should trigger the respective analyzis procedures
+      - A second text prompt like "What can I do now to imtove my welding machine?" should trigger domain knowledge based on the analyis results
+      - ... 
