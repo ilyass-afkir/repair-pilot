@@ -28,4 +28,4 @@ The Repair Pilot is currently limited to analyzing CSV files with a specific str
 
 - [ ] Develop a method for automating the extraction of repair data from various database systems (e.g., SQL).
 - [ ] Create a universal analysis tool capable of handling repair data in any format and structure, eliminating current limitations.
-- [ ] Explore the integration of a Large Language Model (LLM) to enhance the user experience by incorporating domain-specific knowledge. This could facilitate more intuitive interactions and possibly generate insights beyond structured queries. However, it's crucial to assess whether this adds tangible value or if it's merely following a trend. Consider conducting a cost-benefit analysis to determine the practicality of LLM integration.
+- [ ] Explore the integration of a Large Language Model (LLM) to enhance the user experience by incorporating domain-specific knowledge. This could facilitate more intuitive interactions and possibly generate insights beyond structured queries. However, it's crucial to assess whether this adds tangible value or if it's merely following a trend.
