@@ -1,8 +1,16 @@
-# 🛠️ REPAIR PILOT
-### Repair Pilot is an assistance system that analyzes repair data to make your product better.  
-After preprocessing and feature engineering, the data analysis is perfirmed in 3 destinct steps: desdritpiteb, diagnostic and precitive, going from dgeneral to more in detph resutls.
+# 🛠️ REPAIR PILOT (Work in Progress)
+#### Repair Pilot is an assistance system that analyzes repair data to make your product better.
+Here is how its works:
+1. Preprocess Data
+2. Feature Engineering
+3. Data Analysis: Descriptive, Diagnostics and Predictiev analyses sequentially
+4. Plot and save results
 
-# 🎯 Next Steps
+# ToDo
+- [ ] Separate the 3 data analysis (data_analysis.py) in 3 different scripts
+- [ ] Sep 
+
+# 🎯 Future Goals
 Repair Pilot can currently only analyze CSV Files containing a specific structure. Thats not scalabel and efficient!
 Here is what I imagine on what to do next:
 
