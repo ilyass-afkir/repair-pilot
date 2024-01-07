@@ -1,21 +1,31 @@
 # 🛠️ REPAIR PILOT (Work in Progress)
 #### Repair Pilot is an assistance system that analyzes repair data to make your product better.
-Here is how its works:
-1. Preprocess Data
-2. Feature Engineering
-3. Data Analysis: Descriptive, Diagnostics and Predictiev analyses sequentially
-4. Plot and save results
+Workflow Overview:
 
-# ToDo
-- [ ] Separate the 3 data analysis (data_analysis.py) in 3 different scripts
-- [ ] Sep 
+1. **Preprocessing Data**: Clean and prepare the data for analysis.
+2. **Feature Engineering**: Create new features that might improve the models.
+3. **Data Analysis**:
+   - Descriptive Analysis: Explore the data to understand the basics.
+   - Diagnostic Analysis: Understand the relationships between variables.
+   - Predictive Analysis: Apply models to make predictions.
+
+# 💻 To-Do List
+
+- [x] Create a separate script for data preprocessing (data_preprocessing.py).
+- [x] Develop a script dedicated to feature engineering (feature_engineering.py).
+- [ ] Divide the data analysis process into three distinct scripts:
+  - [ ] Descriptive analysis script (descriptive_analysis.py).
+  - [ ] Diagnostic analysis script (diagnostic_analysis.py).
+  - [ ] Predictive analysis script (predictive_analysis.py).
+- [ ] Ensure each script is modular to allow independent execution.
+- [ ] Plot and save results in a consistent format across all types of analyses.
+- [ ] Document each script with clear comments and instructions for reproducibility.
+- [ ] Set up a code review process to maintain coding standards.
+- [ ] Add tests
 
 # 🎯 Future Goals
-Repair Pilot can currently only analyze CSV Files containing a specific structure. Thats not scalabel and efficient!
-Here is what I imagine on what to do next:
+The Repair Pilot is currently limited to analyzing CSV files with a specific structure. To enhance scalability and efficiency, the following developments are envisioned:
 
-- [ ] Automating the extraction of repair data from databases (SQL etc.) 
-- [ ] Ability to analyze any repair data (of any format, structure etc.)
-- [ ] Integration of an LLM to improve UX and incorparte domain knowledge. (BUT, does this really make sense? Or do you want to just jump on the hype wagon?)
-      
-     
+- [ ] Develop a method for automating the extraction of repair data from various database systems (e.g., SQL).
+- [ ] Create a universal analysis tool capable of handling repair data in any format and structure, eliminating current limitations.
+- [ ] Explore the integration of a Large Language Model (LLM) to enhance the user experience by incorporating domain-specific knowledge. This could facilitate more intuitive interactions and possibly generate insights beyond structured queries. However, it's crucial to assess whether this adds tangible value or if it's merely following a trend. Consider conducting a cost-benefit analysis to determine the practicality of LLM integration.
