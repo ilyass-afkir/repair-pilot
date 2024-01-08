@@ -11,12 +11,6 @@ Workflow Overview:
 
 # 💻 To-Do List
 
-- [x] Create a separate script for data preprocessing (data_preprocessing.py).
-- [x] Develop a script dedicated to feature engineering (feature_engineering.py).
-- [ ] Divide the data analysis process into three distinct scripts:
-  - [ ] Descriptive analysis script (descriptive_analysis.py).
-  - [ ] Diagnostic analysis script (diagnostic_analysis.py).
-  - [ ] Predictive analysis script (predictive_analysis.py).
 - [ ] Ensure each script is modular to allow independent execution.
 - [ ] Plot and save results in a consistent format across all types of analyses.
 - [ ] Document each script with clear comments and instructions for reproducibility.
