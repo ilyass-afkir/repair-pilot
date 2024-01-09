@@ -1,2 +1,0 @@
-Startdatum,Enddatum,Typ,Serviceaufträge,Durchlaufzeit,waein_bis_repstart_arb,repstart_bis_repkv_arb,repkv_bis_kv_arb,kv_bis_auftrag_arb,auftrag_bis_repend_arb,repend_bis_wausgang_arb,Durchlaufzeit_arb_avg,waein_bis_repstart_arb_avg,repstart_bis_repkv_arb_avg,repkv_bis_kv_arb_avg,kv_bis_auftrag_arb_avg,auftrag_bis_repend_arb_avg,repend_bis_wausgang_arb_avg
-01.07.2017,01.07.2021,MAK-18,599,,,,,,,,6.86,1.16,0.24,0.16,2.86,1.12,1.32
