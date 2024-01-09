@@ -1,5 +1,6 @@
-# 🛠️ REPAIR PILOT (Work in Progress)
-#### Repair Pilot is an assistance system that analyzes repair data to make your product better.
+# 🛠️ REPAIR PILOT 
+### Repair Pilot is an assistance system that analyzes repair data to make your product better.
+#### Workflow:
 
 1. **Preprocessing Data**: Clean and prepare repair data.
 2. **Feature Engineering**: Create new features that might be helpful.
@@ -9,6 +10,7 @@
    - Predictive Analysis: Neural Networks (Forecasting)
 
 # 💻 To-Do List
+- [ ] Solve bugs!
 - [ ] Improve current data analysis methods. 
 - [ ] Brainstorm more ideas for analyzing repair data.
 - [ ] Ensure each script is modular to allow independent execution.
