@@ -1,4 +1,4 @@
-# 🛠️ REPAIR PILOT (WIP)
+# 🛠️ REPAIR PILOT (Work in Progress)
 ### Repair Pilot is an assistance system that analyzes repair data to make your product better.
 #### Workflow:
 
